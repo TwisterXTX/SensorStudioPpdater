@@ -1,0 +1,25 @@
+{
+   "updates":{
+      "windows":{
+         "open-url":"",
+         "latest-version":"5.0.0",
+         "download-url":"https://gitlab.vmic.xyz/11162455/sensorstudioupdater/-/raw/master/releaseInstaller/SensorStudio-V2.0.0-Installer.exe",
+         "changelog":"https://github.com/Serial-Studio/Serial-Studio/releases/tag/v2.0.0",
+         "mandatory":false
+      },
+      "osx":{
+         "open-url":"",
+         "latest-version":"2.0.0",
+         "download-url":"https://gitlab.vmic.xyz/11162455/sensorstudioupdater/-/raw/master/releaseInstaller/SensorStudio-V2.0.0-Installer.exe",
+         "changelog":"https://github.com/Serial-Studio/Serial-Studio/releases/tag/v2.0.0",
+         "mandatory":false
+      },
+      "linux":{
+         "open-url":"",
+         "latest-version":"2.0.0",
+         "download-url":"https://gitlab.vmic.xyz/11162455/sensorstudioupdater/-/raw/master/releaseInstaller/SensorStudio-V2.0.0-Installer.exe",
+         "changelog":"https://github.com/Serial-Studio/Serial-Studio/releases/tag/v2.0.0",
+         "mandatory":false
+      }
+   }
+}
